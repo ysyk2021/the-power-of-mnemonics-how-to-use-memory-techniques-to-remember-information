@@ -1,5 +1,4 @@
-Chapter 3: Basic Mnemonic Techniques: Strategies for Effective Use of Basic Mnemonics
-=====================================================================================
+# Strategies for Effective Use of Basic Mnemonics
 
 Basic mnemonic techniques such as repetition, chunking, and acronyms can be powerful tools for remembering information. To effectively use these techniques, it's important to use the right strategies. In this chapter, we'll explore strategies for effective use of basic mnemonics.
 

@@ -1,5 +1,4 @@
-Chapter 5: Applying Mnemonics to Different Types of Information: Examples of Individuals Who Successfully Used Mnemonics with Different Types of Information
-============================================================================================================================================================
+# Examples of Individuals Who Successfully Used Mnemonics with Different Types of Information
 
 Mnemonics can be applied to many different types of information, from historical dates to foreign language vocabulary. In this chapter, we will explore examples of individuals who have successfully used mnemonics with different types of information.
 

@@ -1,5 +1,4 @@
-Chapter 5: Applying Mnemonics to Different Types of Information: Strategies for Using Mnemonics with Numbers, Names, Foreign Languages, and More
-================================================================================================================================================
+# Strategies for Using Mnemonics with Numbers, Names, Foreign Languages, and More
 
 Mnemonics can be used to remember a wide variety of information, from numbers to foreign language vocabulary. In this chapter, we will explore strategies for using mnemonics with different types of information.
 

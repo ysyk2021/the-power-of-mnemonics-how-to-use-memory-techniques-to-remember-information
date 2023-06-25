@@ -1,5 +1,4 @@
-Chapter 2: Understanding Memory and Mnemonics: Explanation of How Memory Works
-==============================================================================
+# Explanation of How Memory Works
 
 Before diving into mnemonic techniques, it's important to have a basic understanding of how memory works. In this chapter, we'll explore the different types of memory and the processes involved in encoding, storage, and retrieval of information.
 

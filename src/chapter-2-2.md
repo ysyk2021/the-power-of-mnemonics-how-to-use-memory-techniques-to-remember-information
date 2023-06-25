@@ -1,5 +1,4 @@
-Chapter 2: Understanding Memory and Mnemonics: Definition of Mnemonics
-======================================================================
+# Definition of Mnemonics
 
 Mnemonics are techniques used to improve memory retention and recall. They involve creating associations between new information and pre-existing knowledge in order to make it easier to remember and retrieve information later on.
 

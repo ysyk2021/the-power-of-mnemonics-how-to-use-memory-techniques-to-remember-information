@@ -1,5 +1,4 @@
-Chapter 3: Basic Mnemonic Techniques: Techniques for Creating Basic Mnemonics
-=============================================================================
+# Techniques for Creating Basic Mnemonics
 
 Basic mnemonic techniques such as repetition, chunking, and acronyms can be powerful tools for remembering information. To effectively create basic mnemonics, it's important to use the right techniques. In this chapter, we'll explore techniques for creating basic mnemonics.
 

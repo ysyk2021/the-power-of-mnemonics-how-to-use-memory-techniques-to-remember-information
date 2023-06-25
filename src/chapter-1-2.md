@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Overview of the Book's Contents
-========================================================
+# Overview of the Book's Contents
 
 Welcome to "The Power of Mnemonics: How to Use Memory Techniques to Remember Information." This book is a comprehensive guide to using mnemonic techniques to improve memory retention and recall.
 

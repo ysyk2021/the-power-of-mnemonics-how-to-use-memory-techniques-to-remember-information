@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Importance of Memory Techniques
-========================================================
+# Importance of Memory Techniques
 
 Memory is an essential part of learning, understanding, and retaining information. However, many people struggle with memory retention and recall, often forgetting important details or struggling to retain new information.
 

@@ -1,5 +1,4 @@
-Chapter 9: The Role of Mindfulness in Mnemonics: Importance of mindfulness in using mnemonics
-=============================================================================================
+# Importance of mindfulness in using mnemonics
 
 Mindfulness is the practice of being present and fully aware of your thoughts, feelings, and surroundings. It can play a crucial role in using mnemonics effectively. In this chapter, we will explore the importance of mindfulness in using mnemonics.
 

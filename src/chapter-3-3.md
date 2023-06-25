@@ -1,5 +1,4 @@
-Chapter 3: Basic Mnemonic Techniques: Examples of Basic Mnemonics in Action
-===========================================================================
+# Examples of Basic Mnemonics in Action
 
 Basic mnemonic techniques such as repetition, chunking, and acronyms can be powerful tools for remembering information. In this chapter, we'll explore examples of how these basic mnemonics can be used in real-life situations.
 

@@ -1,5 +1,4 @@
-Chapter 9: The Role of Mindfulness in Mnemonics: Techniques for Practicing Mindfulness to Improve Memory Retention
-==================================================================================================================
+# Techniques for Practicing Mindfulness to Improve Memory Retention
 
 Mindfulness is a practice that involves being present and fully engaged in the current moment. It can be incredibly useful for improving memory retention and recall, as it helps to improve focus and reduce distractions. In this chapter, we'll explore the role of mindfulness in mnemonic techniques and techniques for practicing mindfulness to improve memory retention.
 

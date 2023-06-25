@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Mnemonics: Common Obstacles to Using Mnemonics
-=================================================================================
+# Common Obstacles to Using Mnemonics
 
 While mnemonics can be a powerful tool for improving memory retention, there are several obstacles that can make it difficult to use them effectively. In this chapter, we will explore some common obstacles to using mnemonics.
 

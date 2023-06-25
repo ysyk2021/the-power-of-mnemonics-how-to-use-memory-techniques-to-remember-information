@@ -1,5 +1,4 @@
-Chapter 2: Understanding Memory and Mnemonics: Benefits of Using Mnemonics for Memory Retention
-===============================================================================================
+# Benefits of Using Mnemonics for Memory Retention
 
 Using mnemonics can have several benefits for memory retention:
 

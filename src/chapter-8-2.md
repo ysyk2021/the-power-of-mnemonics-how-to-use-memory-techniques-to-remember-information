@@ -1,5 +1,4 @@
-Chapter 8: Collaborating Through Mnemonics: Strategies for Effective Collaboration with Others to Support Memory Retention
-==========================================================================================================================
+# Strategies for Effective Collaboration with Others to Support Memory Retention
 
 Collaboration can be a powerful tool for improving memory retention through the use of mnemonics. In this chapter, we will explore strategies for effective collaboration with others to support memory retention.
 

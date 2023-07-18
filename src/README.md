@@ -8,5 +8,4 @@ Whether you're a student looking to ace exams, a professional navigating a deman
 
 So if you're ready to unlock the full potential of your memory and take control of your learning and productivity, "The Power of Mnemonics" is the ultimate guide to achieving these goals.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.

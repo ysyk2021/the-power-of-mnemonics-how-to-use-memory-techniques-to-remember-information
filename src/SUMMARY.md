@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of memory techniques](chapter-1-1.md)
-  - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding Memory and Mnemonics](chapter-2.md)
   - [Explanation of how memory works](chapter-2-1.md)
   - [Definition of mnemonics](chapter-2-2.md)

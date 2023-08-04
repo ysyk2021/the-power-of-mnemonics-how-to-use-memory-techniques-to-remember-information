@@ -1,4 +1,4 @@
-Chapter X: Examples of Advanced Mnemonics in Action
+Examples of Advanced Mnemonics in Action
 ===================================================
 
 In this chapter, we will explore compelling examples of advanced mnemonic techniques being applied to enhance memory performance. These real-life examples illustrate the potential of mnemonics to achieve extraordinary feats of memory retention and recall. By studying these examples, readers can gain inspiration and insight into how to effectively leverage advanced mnemonic strategies.

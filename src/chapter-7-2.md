@@ -1,4 +1,4 @@
-Chapter X: Strategies for Overcoming Obstacles
+Strategies for Overcoming Obstacles
 ==============================================
 
 In this chapter, we will explore effective strategies for overcoming obstacles that may arise when using mnemonic techniques to enhance memory. By implementing these strategies, readers can navigate challenges and optimize their mnemonic practice to improve their memory retention and recall abilities.

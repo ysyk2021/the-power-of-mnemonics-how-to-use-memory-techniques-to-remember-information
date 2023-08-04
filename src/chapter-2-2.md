@@ -1,4 +1,4 @@
-Chapter X: Definition of Mnemonics
+Definition of Mnemonics
 ==================================
 
 In this chapter, we will explore the definition of mnemonics and provide a comprehensive understanding of what mnemonics are and how they can be used to improve memory. By delving into the concept of mnemonics, readers will gain clarity on the fundamental principles underlying these memory techniques and their practical applications.

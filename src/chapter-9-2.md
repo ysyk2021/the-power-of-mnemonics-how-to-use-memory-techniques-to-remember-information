@@ -1,4 +1,4 @@
-Chapter X: Techniques for Practicing Mindfulness to Improve Memory Retention
+Techniques for Practicing Mindfulness to Improve Memory Retention
 ============================================================================
 
 In this chapter, we will explore various techniques for practicing mindfulness to enhance memory retention. Mindfulness, the practice of being fully present and aware in the current moment, can significantly improve our ability to encode and retain information. By incorporating mindfulness techniques into our memory improvement routine, we can optimize our memory retention and recall.

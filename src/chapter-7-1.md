@@ -1,4 +1,4 @@
-Chapter X: Common Obstacles to Using Mnemonics
+Common Obstacles to Using Mnemonics
 ==============================================
 
 In this chapter, we will explore common obstacles that individuals may encounter when attempting to use mnemonic techniques to enhance their memory. Understanding these obstacles is crucial in order to overcome them and effectively harness the power of mnemonics. By addressing these challenges, readers can optimize their mnemonic practice and maximize their memory retention and recall abilities.

@@ -1,4 +1,4 @@
-Chapter X: Strategies for Effective Use of Basic Mnemonics
+Strategies for Effective Use of Basic Mnemonics
 ==========================================================
 
 In this chapter, we will explore strategies for effectively utilizing basic mnemonic techniques. By understanding these strategies, readers can maximize the benefits of mnemonics and enhance their memory abilities. Implementing these strategies will help improve information retention and recall in various learning scenarios.

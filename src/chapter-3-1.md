@@ -1,4 +1,4 @@
-Chapter X: Techniques for Creating Basic Mnemonics
+Techniques for Creating Basic Mnemonics
 ==================================================
 
 In this chapter, we will explore various techniques for creating basic mnemonics. These techniques aim to enhance memory retention and recall by leveraging mnemonic strategies. By understanding and applying these techniques, readers can develop powerful mnemonic devices to remember information effectively.

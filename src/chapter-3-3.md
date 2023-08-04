@@ -1,4 +1,4 @@
-Chapter X: Examples of Basic Mnemonics in Action
+Examples of Basic Mnemonics in Action
 ================================================
 
 In this chapter, we will explore practical examples of basic mnemonic techniques in action. These examples demonstrate how simple mnemonic strategies can be applied to various learning scenarios, aiding in the effective retention and recall of information. By understanding and implementing these basic mnemonics, readers can start enhancing their memory abilities right away.

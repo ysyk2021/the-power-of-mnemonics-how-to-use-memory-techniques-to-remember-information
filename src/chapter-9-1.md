@@ -1,4 +1,4 @@
-Chapter X: Importance of Mindfulness in Using Mnemonics
+Importance of Mindfulness in Using Mnemonics
 =======================================================
 
 In this chapter, we will explore the crucial role of mindfulness in using mnemonics effectively. Mindfulness, the practice of being fully present and aware in the current moment, can significantly enhance the benefits of mnemonic techniques. By understanding and cultivating mindfulness, readers can optimize their memory improvement journey and make the most of mnemonic strategies.

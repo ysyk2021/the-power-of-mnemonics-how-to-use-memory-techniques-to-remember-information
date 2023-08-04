@@ -1,4 +1,4 @@
-Chapter X: Importance of Memory Techniques
+Importance of Memory Techniques
 ==========================================
 
 In this chapter, we will explore the significance and benefits of memory techniques. Mnemonic strategies play a vital role in enhancing memory retention and recall abilities, allowing individuals to maximize their learning potential. Understanding the importance of memory techniques provides the motivation and rationale to incorporate them into daily life and learning practices.

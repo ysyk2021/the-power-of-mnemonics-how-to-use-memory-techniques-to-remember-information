@@ -1,4 +1,3 @@
-# Summary of Key Points
 
 In this book, we have explored the power of mnemonic techniques for improving memory retention and recall. Here are some key points to remember:
 

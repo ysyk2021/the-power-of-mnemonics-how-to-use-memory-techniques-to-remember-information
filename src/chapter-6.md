@@ -1,5 +1,3 @@
-Chapter 6: Combining Mnemonics with Other Memory Techniques
-===========================================================
 
 Mnemonic techniques can be incredibly useful for improving memory retention and recall. However, combining mnemonic techniques with other memory techniques can enhance their effectiveness even further. In this chapter, we'll explore the importance of combining mnemonics with other memory techniques, techniques for combining mnemonics with visualization and association, and examples of individuals who successfully combined mnemonics with other memory techniques.
 

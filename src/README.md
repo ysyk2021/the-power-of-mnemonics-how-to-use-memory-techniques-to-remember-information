@@ -1,4 +1,3 @@
-# Introduction
 
 Have you ever found yourself struggling to remember important information, whether it's for an exam, presentation, or just everyday life? If so, you're not alone. Many people struggle with memory retention and recall, but the good news is that there are ways to improve your memory skills and boost your cognitive abilities.
 

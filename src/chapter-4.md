@@ -1,5 +1,3 @@
-Chapter 4: Advanced Mnemonic Techniques
-=======================================
 
 Advanced mnemonic techniques such as the method of loci, major system, peg system, and link system can be powerful tools for remembering information. In this chapter, we'll explore techniques for creating advanced mnemonics, strategies for effective use of advanced mnemonics, and examples of advanced mnemonics in action.
 

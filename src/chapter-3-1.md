@@ -1,4 +1,3 @@
-# Techniques for Creating Basic Mnemonics
 
 In this chapter, we will explore various techniques for creating basic mnemonics. Mnemonics are memory aids that help us remember information by associating it with easily recallable images, stories, or patterns. By leveraging these techniques, you can enhance your ability to retain and retrieve information more effectively.
 

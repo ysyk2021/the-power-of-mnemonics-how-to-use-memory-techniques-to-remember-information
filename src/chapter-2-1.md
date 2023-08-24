@@ -1,5 +1,3 @@
-Explanation of How Memory Works
-==========================================
 
 In this chapter, we will delve into an explanation of how memory functions and the underlying processes that contribute to the storage and retrieval of information. Understanding how memory works is essential for effectively utilizing mnemonic techniques to improve memory performance. By gaining insights into the intricate workings of memory, readers can optimize their use of mnemonics and enhance their overall memory capabilities.
 

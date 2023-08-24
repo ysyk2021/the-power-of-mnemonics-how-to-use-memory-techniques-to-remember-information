@@ -1,5 +1,3 @@
-Chapter 5: Applying Mnemonics to Different Types of Information
-===============================================================
 
 Mnemonic techniques can be applied to a wide range of information, from numbers and names to foreign languages and scientific concepts. In this chapter, we'll explore techniques for applying mnemonics to different types of information, strategies for using mnemonics with numbers, names, foreign languages, and more, and examples of individuals who successfully used mnemonics with different types of information.
 

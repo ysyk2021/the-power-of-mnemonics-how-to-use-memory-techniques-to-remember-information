@@ -1,5 +1,4 @@
-Chapter 2: Understanding Memory and Mnemonics
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the intricacies of memory and delve into the concept of mnemonics. By understanding how memory works and the benefits of using mnemonics, you can harness the power of these techniques to enhance your memory retention.
 
